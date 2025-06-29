@@ -6,7 +6,7 @@ I'm a computer engineer working actually on AI projects
 
 ### ❤️ Data
 
-- 🔭 I’m currently working on Indra at Digital Labs as a Senior Consultant and AI Engineer
+- 🔭 I’m currently working on Indra at Indra Mind as a Senior Consultant and AI Engineer
 - 🌱 I’m currently learning about NLP
 - 👯 I’m looking to collaborate on healthcare projects
 
