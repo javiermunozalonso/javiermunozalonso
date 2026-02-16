@@ -77,7 +77,6 @@ Core principle:
 
 ### 🔹 Networking & Homelab Engineering
 
-- MikroTik (RB5009, hAP ax³, CRS series)
 - VLAN segmentation (home / IoT / guests)
 - WireGuard site-to-site
 - Streaming over optimized tunnels
